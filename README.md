@@ -1,26 +1,16 @@
-# Sandwich Club Project Starter Code
+# Sandwich-Club
+Sandwich Club app shows the details of each sandwich once it is selected.
 
-## Project Overview
-In this project, you will complete the **Sandwich Club** app to
-show the details of each sandwich once it is selected.
+## What I learnt
+Through this project, i learnt:
+- how to submit projects for review
+- JSON parsing to a model object
+- how to Design an activity layout
 
-## Why this Project
+##Screenshots
 
-Building a layout and populating its fields from data received as JSON
-is a common task for Android Developers. Although JSON parsing is usually
-done using libraries, writing the JSON parsing for  this project will
-help you to better understand how it is processed.
 
-## What Will I Learn?
-Through this project, you will:
-- Learn how to submit projects for review
-- Practice JSON parsing to a model object
-- Design an activity layout
-- Populate all fields in the layout accordingly
+<img align="left" width="400" height="800" src="https://firebasestorage.googleapis.com/v0/b/journalapp-985e6.appspot.com/o/Screenshot_20180725-122648_Sandwich%20Club.jpg?alt=media&token=92de2dbe-231a-4ad5-8886-6cb705f7cb6d">
 
-## How Do I Complete this Project?
-Download the [Sandwich Club app starter code.](https://github.com/udacity/sandwich-club-starter-code)
+<img align="center" width="400" height="800" src="https://firebasestorage.googleapis.com/v0/b/journalapp-985e6.appspot.com/o/Screenshot_20180725-122659_Sandwich%20Club.jpg?alt=media&token=5d3ac86c-2def-43ad-8d77-3921498bb241">
 
-Design the layout for the detail activity so the different elements
-display in a sensible way. Implement the JSON parsing in JsonUtils so it
-produces a Sandwich Object that can be used to populate the UI that you designed.
