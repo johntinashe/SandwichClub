@@ -7,7 +7,7 @@ Through this project, i learnt:
 - JSON parsing to a model object
 - how to Design an activity layout
 
-##Screenshots
+## Screenshots
 
 
 <img align="left" width="400" height="800" src="https://firebasestorage.googleapis.com/v0/b/journalapp-985e6.appspot.com/o/Screenshot_20180725-122648_Sandwich%20Club.jpg?alt=media&token=92de2dbe-231a-4ad5-8886-6cb705f7cb6d">
